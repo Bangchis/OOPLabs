@@ -1,2 +1,0 @@
-The Aims class needs to be updated to properly handle any exceptions thrown when the play() methods are invoked. What will occur if these updates are not made?
-If the exceptions are not handled, attempting to use the Aims class will result in the error: "The method play() from the type Playable refers to the missing type PlayerException".
